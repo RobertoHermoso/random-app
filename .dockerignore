@@ -1,5 +1,6 @@
-node_modules/
-keys/
+.git
+/terraform
+/keys
 terraform.tfstate
 terraform.tfstate.backup
 .terraform.lock.hcl
